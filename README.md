@@ -16,9 +16,9 @@ Seluruh berkas mentah hasil akuisisi disimpan utuh di dalam folder `data raw/` t
 
 | No | Sumber Data | Metode Akuisisi | Berkas Mentah (`data raw`) | URL Sumber | Tanggal Akses | Lisensi | MD5 Hash |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Kaggle — *Indonesia Tourism* (`sagitasantia`) | Unduh Dataset (`CSV`) | `data raw/wisata_nusantara.csv` | https://kaggle.com | 2026-11-24 | Academic Research & Non-Commercial Tourism Promotion (*Kaggle Data Card*) | `048f6c536d5355a939a4094270a1b1b6` *(sesuaikan dengan output Colab)* |
-| 2 | Wikipedia Action API | REST API (`JSON`) | `data raw/api_wikipedia_wilayah_raw.json` | https://wikipedia.org | 2026-11-24 | CC BY-SA 4.0 | `5f3b98e12a08c7d419b2e067c3a194d2` *(sesuaikan dengan output Colab)* |
-| 3 | Wikipedia Indonesia — *Provinsi Bali* | *Ethical Web Scraping* (`HTML`) | `data raw/scraping_bali_raw.html` | https://wikipedia.org | 2026-11-24 | CC BY-SA 4.0 | `b523de2bfb0bc38c9c37370c588771a9` *(sesuaikan dengan output Colab)* |
+| 1 | Kaggle — *Indonesia Tourism* (`sagitasantia`) | Unduh Dataset (`CSV`) | `data raw/wisata_nusantara.csv` | https://kaggle.com | 2026-11-24 | Academic Research & Non-Commercial Tourism Promotion (*Kaggle Data Card*) | `e02e743b15f22ce0b2d090e1e0846e00` |
+| 2 | Wikipedia Action API | REST API (`JSON`) | `data raw/api_wikipedia_wilayah_raw.json` | https://wikipedia.org | 2026-11-24 | CC BY-SA 4.0 | `51b22d0b6b70810534151dd1aca09b5a` |
+| 3 | Wikipedia Indonesia — *Provinsi Bali* | *Ethical Web Scraping* (`HTML`) | `data raw/scraping_bali_raw.html` | https://wikipedia.org | 2026-11-24 | CC BY-SA 4.0 | `c58eb41bb8d04a5343ba9c35916997a` |
 
 ---
 
