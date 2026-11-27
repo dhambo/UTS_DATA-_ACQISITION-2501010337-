@@ -1,0 +1,39 @@
+"('Lambang', 'Lambang')","('Provinsi', 'Provinsi')","('Kode', '#[4]')","('Kode', 'ISO[5] (ID-)')","('Kep.', 'Kep.')","('Ibu kota', 'Ibu kota')","('Wilayah geografis', 'Wilayah geografis')","('Tanggal', 'Hari jadi[a]')","('Tanggal', 'Pembentukan[b]')","('UU', 'UU')","('Tingkat II', 'Kab.')","('Tingkat II', 'Kota')",kunci_provinsi
+,Aceh,11,AC,—,Banda Aceh,Sumatra,—,7 Des 1956,24/1956,18,5,Aceh
+,Bali,51,BA,—,Denpasar,Nusa Tenggara,14 Ags 1958,14 Ags 1958,15/2023,8,1,Bali
+,Banten,36,BT,—,Serang,Jawa,4 Okt 2000,17 Okt 2000,23/2000,4,4,Banten
+,Bengkulu,17,BE,—,Bengkulu,Sumatra,18 Nov 1968,12 Sep 1967,9/1967,9,1,Bengkulu
+,Daerah Istimewa Yogyakarta,34,YO,DIY,Yogyakarta,Jawa,13 Mar 1755,4 Mar 1950,3/1950,4,1,Daerah Istimewa Yogyakarta
+,Daerah Khusus Ibukota Jakarta,31,JK,DKI,—,Jawa,22 Jun 1527,10 Feb 1956,1/1956,1,5,Daerah Khusus Ibukota Jakarta
+,Gorontalo,75,GO,—,Gorontalo,Sulawesi,5 Des 2000,22 Des 2000,38/2000,5,1,Gorontalo
+,Jambi,15,JA,—,Jambi,Sumatra,6 Jan 1957,31 Jul 1958,18/2022,9,2,Jambi
+,Jawa Barat,32,JB,Jabar,Bandung,Jawa,19 Ags 1945,4 Jul 1950,10/2023,18,9,Jawa Barat
+,Jawa Tengah,33,JT,Jateng,Semarang,Jawa,19 Ags 1945,4 Jul 1950,11/2023,29,6,Jawa Tengah
+,Jawa Timur,35,JI,Jatim,Surabaya,Jawa,12 Okt 1945,4 Mar 1950,12/2023,29,9,Jawa Timur
+,Kalimantan Barat,61,KB,Kalbar,Pontianak,Kalimantan,28 Jan 1957,1 Jan 1957,9/2022,12,2,Kalimantan Barat
+,Kalimantan Selatan,63,KS,Kalsel,Banjarbaru,Kalimantan,14 Ags 1950,7 Des 1956,8/2022,11,2,Kalimantan Selatan
+,Kalimantan Tengah,62,KT,Kalteng,Palangka Raya,Kalimantan,23 Mei 1957,23 Mei 1957,14/2023,13,1,Kalimantan Tengah
+,Kalimantan Timur,64,KI,Kaltim,Samarinda,Kalimantan,9 Jan 1957,1 Jan 1957,10/2022,7,3,Kalimantan Timur
+,Kalimantan Utara,65,KU,Kaltara,Tanjung Selor,Kalimantan,25 Okt 2012,17 Nov 2012,20/2012,4,1,Kalimantan Utara
+,Kepulauan Bangka Belitung,19,BB,Babel,Pangkalpinang,Sumatra,21 Nov 2000,4 Des 2000,27/2000,6,1,Kepulauan Bangka Belitung
+,Kepulauan Riau,21,KR,Kepri,Tanjungpinang,Sumatra,24 Sep 2002,25 Okt 2002,25/2002,5,2,Kepulauan Riau
+,Lampung,18,LA,—,Bandar Lampung,Sumatra,18 Mar 1964,23 Sep 1964,14/1964,13,2,Lampung
+,Maluku,81,MA,—,Ambon,Maluku,19 Ags 1945,1 Jul 1958,13/2023,9,2,Maluku
+,Maluku Utara,82,MU,Malut,Sofifi,Maluku,12 Okt 1999,4 Okt 1999,46/1999,8,2,Maluku Utara
+,Nusa Tenggara Barat,52,NB,NTB,Mataram,Nusa Tenggara,17 Des 1958,14 Agu 1958,20/2022,8,2,Nusa Tenggara Barat
+,Nusa Tenggara Timur,53,NT,NTT,Kupang,Nusa Tenggara,20 Des 1958,14 Agu 1958,21/2022,21,1,Nusa Tenggara Timur
+,Papua,91,PA,—,Jayapura,Papua,27 Des 1949,10 Sep 1969,12/1969,8,1,Papua
+,Papua Barat,92,PB,Pabar,Manokwari,Papua,12 Okt 1999,4 Okt 1999,45/1999,7,0,Papua Barat
+,Papua Barat Daya,96,PD,PBD,Sorong,Papua,—,8 Des 2022,29/2022,5,1,Papua Barat Daya
+,Papua Pegunungan,95,PE,Papeg,Jayawijaya,Papua,—,25 Jul 2022,16/2022,8,0,Papua Pegunungan
+,Papua Selatan,93,PS,Pasel,Salor,Papua,—,25 Juli 2022,14/2022,4,0,Papua Selatan
+,Papua Tengah,94,PT,Pateng,Wanggar,Papua,—,25 Jul 2022,15/2022,8,0,Papua Tengah
+,Riau,14,RI,—,Pekanbaru,Sumatera,9 Ags 1957,31 Jul 1958,19/2022,10,2,Riau
+,Sulawesi Barat,76,SR,Sulbar,Mamuju,Sulawesi,22 Sep 2004,5 Okt 2004,26/2004,6,0,Sulawesi Barat
+,Sulawesi Selatan,73,SN,Sulsel,Makassar,Sulawesi,19 Okt 1669,23 Sep 1964,4/2022,21,3,Sulawesi Selatan
+,Sulawesi Tengah,72,ST,Sulteng,Palu,Sulawesi,23 Sep 1964,23 Sep 1964,6/2022,12,1,Sulawesi Tengah
+,Sulawesi Tenggara,74,SG,Sultra,Kendari,Sulawesi,27 Apr 1964,27 Apr 1964,7/2022,15,2,Sulawesi Tenggara
+,Sulawesi Utara,71,SA,Sulut,Manado,Sulawesi,23 Sep 1964,23 Sep 1964,5/2022,11,4,Sulawesi Utara
+,Sumatera Barat,13,SB,Sumbar,Padang,Sumatra,1 Okt 1945,31 Jul 1958,17/2022,12,7,Sumatera Barat
+,Sumatera Selatan,16,SS,Sumsel,Palembang,Sumatra,15 Mei 1946,15 Apr 1948,9/2023,13,4,Sumatera Selatan
+,Sumatera Utara,12,SU,Sumut,Medan,Sumatra,15 Apr 1948,15 Apr 1948,8/2023,25,8,Sumatera Utara

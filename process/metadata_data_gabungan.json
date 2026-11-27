@@ -1,0 +1,18 @@
+{
+    "judul": "Dataset Terintegrasi Pariwisata Nusantara, Meteorologi-Elevasi API, dan Provinsi Indonesia",
+    "mahasiswa": "Yustina Dhambo (2501010337 - Kelas F)",
+    "tanggal_pembuatan": "2026-11-27",
+    "sumber_data": [
+        "Kaggle - Indonesia Tourism (wisata_nusantara.csv)",
+        "Open-Meteo Public API (api_cuaca_elevasi_raw.json)",
+        "Wikipedia Indonesia - Provinsi di Indonesia (scraping_provinsi_indonesia_raw.html)"
+    ],
+    "kunci_penggabungan": [
+        "kunci_wilayah",
+        "kunci_provinsi"
+    ],
+    "validasi_merge": "many_to_one",
+    "jumlah_baris": 247,
+    "jumlah_kolom": 17,
+    "jumlah_duplikasi": 0
+}
